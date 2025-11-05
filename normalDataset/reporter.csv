@@ -1,0 +1,2 @@
+ts,level,message,location
+1762167702.128836,Reporter::ERROR,Failed to open GeoIP location database (lookup_location(SSH::lookup_ip)),"/opt/zeek/share/zeek/policy/protocols/ssh/geo-data.zeek, line 30"
